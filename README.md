@@ -9,6 +9,9 @@ is authentic or fake using statistical features.
 - Scikit-learn
 - NumPy
 
+Live link:-
+banknote_authentication ∙ main ∙ app.py
+
 ## How to Run
 ```bash
 pip install -r requirements.txt
