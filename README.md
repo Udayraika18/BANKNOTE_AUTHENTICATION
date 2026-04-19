@@ -10,7 +10,7 @@ is authentic or fake using statistical features.
 - NumPy
 
 Live link:-
-banknote_authentication ∙ main ∙ app.py
+https://banknote-verification-uday.streamlit.app/
 
 ## How to Run
 ```bash
